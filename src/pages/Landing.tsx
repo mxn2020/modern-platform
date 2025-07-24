@@ -1,7 +1,7 @@
 // src/pages/Landing.tsx
 
 import React, { useState, useEffect } from 'react';
-import { TestTube, CheckCircle, Bug, Target, Users, Star, User, Shield, Zap, BarChart3 } from 'lucide-react';
+import { TestTube, CheckCircle, Bug, Target, Users, User, Shield, Zap, BarChart3 } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import { Container, Button, Card, CardContent, Badge, Header, Nav, Section, Span, H1, H2, P, Div, Footer } from '../lib/dev-container';
 import { useAuth } from '../components/auth/AuthProvider';
